@@ -1,0 +1,17 @@
+C:\Users\50650\Desktop\Test\TestDevice\UnitTestDevice\obj\Debug\netcoreapp2.2\UnitTestDevice.csprojAssemblyReference.cache
+C:\Users\50650\Desktop\Test\TestDevice\UnitTestDevice\obj\Debug\netcoreapp2.2\UnitTestDevice.csproj.CoreCompileInputs.cache
+C:\Users\50650\Desktop\Test\TestDevice\UnitTestDevice\obj\Debug\netcoreapp2.2\UnitTestDevice.AssemblyInfoInputs.cache
+C:\Users\50650\Desktop\Test\TestDevice\UnitTestDevice\obj\Debug\netcoreapp2.2\UnitTestDevice.AssemblyInfo.cs
+C:\Users\50650\Desktop\Test\TestDevice\UnitTestDevice\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\50650\Desktop\Test\TestDevice\UnitTestDevice\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\50650\Desktop\Test\TestDevice\UnitTestDevice\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\50650\Desktop\Test\TestDevice\UnitTestDevice\bin\Debug\netcoreapp2.2\UnitTestDevice.deps.json
+C:\Users\50650\Desktop\Test\TestDevice\UnitTestDevice\bin\Debug\netcoreapp2.2\UnitTestDevice.runtimeconfig.json
+C:\Users\50650\Desktop\Test\TestDevice\UnitTestDevice\bin\Debug\netcoreapp2.2\UnitTestDevice.runtimeconfig.dev.json
+C:\Users\50650\Desktop\Test\TestDevice\UnitTestDevice\bin\Debug\netcoreapp2.2\UnitTestDevice.dll
+C:\Users\50650\Desktop\Test\TestDevice\UnitTestDevice\bin\Debug\netcoreapp2.2\TestDevice.dll
+C:\Users\50650\Desktop\Test\TestDevice\UnitTestDevice\bin\Debug\netcoreapp2.2\TestDevice.pdb
+C:\Users\50650\Desktop\Test\TestDevice\UnitTestDevice\obj\Debug\netcoreapp2.2\UnitTestDevice.csproj.CopyComplete
+C:\Users\50650\Desktop\Test\TestDevice\UnitTestDevice\bin\Debug\netcoreapp2.2\UnitTestDevice.pdb
+C:\Users\50650\Desktop\Test\TestDevice\UnitTestDevice\obj\Debug\netcoreapp2.2\UnitTestDevice.dll
+C:\Users\50650\Desktop\Test\TestDevice\UnitTestDevice\obj\Debug\netcoreapp2.2\UnitTestDevice.pdb
